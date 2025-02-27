@@ -1,4 +1,5 @@
 <h1 align="center">🫡 This is Cin-Siang Ng's Github</h1>
+---
 [![](https://visitcount.itsvg.in/api?id=cinsiangNG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -26,4 +27,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cinsiangNG&limit=5&theme=default&combine_all_yearly_contributions=true)
----
