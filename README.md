@@ -8,3 +8,4 @@ A senior in the Information Technology Engineering Division of the Department of
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinsiangNG&show_icons=true&locale=en&layout=compact" alt="cinsiangNG" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinsiangNG&show_icons=true&locale=en" alt="cinsiangNG" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cinsiangNG&" alt="cinsiangNG" /></p>
