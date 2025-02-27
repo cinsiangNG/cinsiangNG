@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **cinsiang0429@gmail.com**
 
-- 📄 Know about my experiences [link]https://github.com/cinsiangNG/cinsiangNG/blob/main/Resume_CIN_SIANG__NG.pdf
+- 📄 Know about my experiences [link](https://github.com/cinsiangNG/cinsiangNG/blob/main/Resume_CIN_SIANG__NG.pdf)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinsiangNG&label=Profile%20views&color=0e75b6&style=flat" alt="cinsiangNG" /> </p>
 
