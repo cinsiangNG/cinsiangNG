@@ -2,7 +2,7 @@
 
 > A dedicated **IT** senior student study at **National Yang Ming Chiao Tung University**.
 
-[![](https://visitcount.itsvg.in/api?id=cinsiangNG&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cinsiangNG&label=Profile%20views&color=0e75b6&style=flat" alt="cinsiangNG" /> </p>
 
 - 👨‍💻  I'm currently learning the skills of **Machine Learning** and **Deep learning**.
 
