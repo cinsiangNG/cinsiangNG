@@ -5,3 +5,5 @@ A senior in the Information Technology Engineering Division of the Department of
 <p align="left">
 <a href="https://www.linkedin.com/in/cin-siang-ng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsung-min-pai" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinsiangNG&show_icons=true&locale=en&layout=compact" alt="cinsiangNG" /></p>
