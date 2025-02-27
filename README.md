@@ -4,7 +4,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=cinsiangNG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 👨‍💻  I'm currently learning the skills of **Machine Learning** and **Deep learning**.
+
+- 📫 How to reach me **cinsiang0429@gmail.com**
+
+- 📄 Know about my experiences [https://bit.ly/Resume_OngYuanQin](https://bit.ly/Resume_OngYuanQin)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinsiangNG&label=Profile%20views&color=0e75b6&style=flat" alt="cinsiangNG" /> </p>
 
 <h3 align="left">My Linkedin:</h3>
