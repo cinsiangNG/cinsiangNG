@@ -1,6 +1,6 @@
 <h1 align="center">🫡 This is Cin-Siang Ng's Github</h1>
 
-<h3 align="center">> A dedicated **IT** senior student study at **National Yang Ming Chiao Tung University**.</h3>  
+<h3 align="center"> A dedicated **IT** senior student study at **National Yang Ming Chiao Tung University**.</h3>  
 
 [![](https://visitcount.itsvg.in/api?id=cinsiangNG&icon=0&color=0)](https://visitcount.itsvg.in)
 
