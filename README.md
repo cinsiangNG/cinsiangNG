@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuan Qin</h1>
+<h1 align="center">🫡 This is Cin-Siang Ng's Github</h1>
 [![](https://visitcount.itsvg.in/api?id=cinsiangNG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
