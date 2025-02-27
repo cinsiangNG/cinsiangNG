@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **cinsiang0429@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Resume_OngYuanQin](https://bit.ly/Resume_OngYuanQin)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/3/home]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinsiangNG&label=Profile%20views&color=0e75b6&style=flat" alt="cinsiangNG" /> </p>
 
