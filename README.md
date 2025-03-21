@@ -31,6 +31,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=cinsiangNG&theme=default&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cinsiangNG&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=cinsiangNG&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
