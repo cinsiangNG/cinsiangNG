@@ -1,6 +1,6 @@
 <h1 align="center">🫡 This is Cin-Siang Ng's Github</h1>
 
-> A senior student in **Software Engineering** and **AI** at **National Yang Ming Chiao Tung University**, seeking a Software Engineer role focused on AI and machine learning applications.
+> A senior student in **Software Engineering** and **AI** at **National Yang Ming Chiao Tung University**, seeking a **Software Engineer** role focused on **AI** and **deep learning** applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinsiangNG&label=Profile%20views&color=0e75b6&style=flat" alt="cinsiangNG" /> </p>
 
