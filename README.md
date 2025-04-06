@@ -6,7 +6,7 @@
 
 - 👨‍💻  I'm currently learning the skills of **Machine Learning** and **Deep learning**.
 
-- 📫 How to reach me **cinsiang0429@gmail.com**
+- 📫 How to reach me **cinsiang0429.en12@nycu.edu.tw**
 
 - 📄 Know about my experiences [link](https://github.com/cinsiangNG/cinsiangNG/blob/main/Resume_CIN_SIANG__NG.pdf)
 
