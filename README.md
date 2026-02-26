@@ -72,17 +72,9 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinsiangNG&layout=compact&theme=default&hide_border=true&cache_seconds=1800"
-  />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinsiangNG&show_icons=true&locale=en&layout=compact&cache_seconds=0" alt="cinsiangNG" /></p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cinsiangNG&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"
-  />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinsiangNG&show_icons=true&locale=en&cache_seconds=0" alt="cinsiangNG" /></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cinsiangNG" />
