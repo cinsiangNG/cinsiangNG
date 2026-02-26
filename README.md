@@ -73,7 +73,7 @@
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinsiangNG&show_icons=true&locale=en&layout=compact&cache_seconds=21600" alt="cinsiangNG" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinsiangNG)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinsiangNG&show_icons=true&locale=en&cache_seconds=21600" alt="cinsiangNG" /></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cinsiangNG" />
