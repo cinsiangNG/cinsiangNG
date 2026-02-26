@@ -59,13 +59,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinsiangNG&layout=compact" />
 </p>
 
-<p align="left">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cinsiangNG&show_icons=true" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cinsiangNG" />
