@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **cinsiang0429.en12@nycu.edu.tw**
 
-- 📄 Know about my experiences [link](https://github.com/cinsiangNG/cinsiangNG/blob/main/Resume_CIN_SIANG__NG.pdf)
+- 📄 Know about my experiences [link](https://github.com/cinsiangNG/cinsiangNG/blob/main/Resume_NG_CIN_SIANG.pdf)
 
 <h3 align="left">My Linkedin:</h3>
 <p align="left">
